@@ -1,6 +1,7 @@
 ### <h1 align="center">Hello there 👋, I'm Pradhumn
 </h1>
 <h3 align="center">I am currently a Third Year CSE student at SRM IST and aspiring developer. I love programming and Gaming</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumnyadav&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnyadav" /> </p>
 
